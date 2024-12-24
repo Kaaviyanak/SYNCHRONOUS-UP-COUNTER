@@ -52,8 +52,8 @@ else
 end
 endmodule
 ```
-Developed by: Dhanvant Kumar V
-RegisterNumber: 24005057
+Developed by: KAAVIYAN.K
+RegisterNumber: 24006507
 */
 
 **RTL LOGIC UP COUNTER**
